@@ -1,0 +1,47 @@
+Super: 118
+Super: 187
+Super: 256
+Super: 347
+Super: 439
+Super: 510
+Super: 0
+last written block 510
+Create
+Success Create
+Write lfs1213.h~ 16384 offset:0
+Write lfs1213.h~ 2969 offset:16384
+Dirty:527	New:530
+Truncate: lfs1213.h 0
+Write lfs1213.h 4096 offset:0
+Dirty:347	New:531
+Dirty:349	New:532
+Dirty:350	New:533
+Dirty:351	New:534
+Dirty:352	New:535
+Write lfs1213.h 19353 offset:0
+Dirty:531	New:536
+Dirty:532	New:537
+Dirty:533	New:538
+Dirty:534	New:539
+Dirty:535	New:540
+Dirty:353	New:541
+Dirty:354	New:542
+Dirty:355	New:543
+Dirty:356	New:544
+Dirty:357	New:545
+Dirty:358	New:546
+Dirty:359	New:547
+Dirty:360	New:548
+Dirty:361	New:549
+Dirty:362	New:550
+Dirty:363	New:551
+Dirty:367	New:552
+Dirty:365	New:553
+Dirty:366	New:554
+Write lfs1213.h 2980 offset:16384
+Dirty:552	New:555
+Dirty:553	New:556
+Dirty:554	New:557
+Write directory 792 offset:0
+Dirty:439	New:558
+Destroy called ... Closing FS 

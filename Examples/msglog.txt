@@ -1,0 +1,6 @@
+Logging ! 
+Logging ! 
+Logging ! 
+Destroy called ... Closing filesystem 
+Logging ! 
+Destroy called ... Closing filesystem 

@@ -1,0 +1,74 @@
+Write called 
+Destroy called ... Closing filesystem 
+Destroy called ... Closing filesystem 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Destroy called ... Closing filesystem 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Destroy called ... Closing filesystem 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Destroy called ... Closing filesystem 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Destroy called ... Closing filesystem 
+Truncate called 
+Write called 
+Truncate called 
+Truncate called 
+Truncate called 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Write called 
+Truncate called 
+Write called 
+Write called 
+Destroy called ... Closing filesystem 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Write called 
+Truncate called 
+Write called 
+Write called 
+Truncate called 
+Write called 
+Write called 
+Destroy called ... Closing filesystem 
+Truncate called 
+Write called 
+Truncate called 
+Write called 
+Destroy called ... Closing filesystem 
+Write called 
+Destroy called ... Closing filesystem 

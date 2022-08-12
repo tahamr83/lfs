@@ -1,0 +1,8 @@
+Create /lfs.h
+unlink /lfs.h
+Truncate: lfs.h 0
+Write lfs.h 7063 offset:0
+Read lfs.h
+Read lfs.h
+Write lfs.h 2979 offset:4096
+Destroy called ... Closing FS 

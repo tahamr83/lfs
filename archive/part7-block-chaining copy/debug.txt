@@ -1,0 +1,7 @@
+Super: 118
+Super: 187
+Super: 0
+last written block 187
+Write directory 396 offset:0
+Dirty:118	New:187
+Destroy called ... Closing FS 

@@ -1,0 +1,20 @@
+Super: 118
+Super: 187
+Super: 256
+Super: 325
+Super: 403
+Super: 472
+Super: 0
+superblock:472
+last written block 472
+read checkpoints dir
+Filename: directory
+Filename: directory
+Filename: directory
+Filename: directory
+Filename: directory
+Filename: directory
+Filename: directory
+Write directory 396 offset:0
+Dirty:403	New:472
+Destroy called ... Closing FS 

@@ -1,0 +1,7 @@
+last written block 158
+Create /lfsafaf.h
+unlink /lfsafaf.h
+Truncate: lfsafaf.h 0
+Write lfsafaf.h 14537 offset:0
+Dirty:168	New:174
+Dirty:169	New:175

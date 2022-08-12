@@ -1,0 +1,11 @@
+READ_DIR
+directory size: 5
+directory 0
+inode.h 3
+lfscopy.h 2
+testcases.h 5
+„ 0
+END READDIR
+directory size: 5
+Write directory 660 offset:0
+Destroy called ... Closing FS 

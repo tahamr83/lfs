@@ -1,0 +1,4 @@
+last written block 204
+Write directory 528 offset:0
+Dirty:121	New:204
+Destroy called ... Closing FS 

@@ -1,0 +1,709 @@
+Logging 
+Logging 
+Logging 
+Logging 
+Logging 
+Logging 
+unique: 0, opcode: INIT (26), nodeid: 0, insize: 56
+INIT: 7.8
+flags=0x00000000
+max_readahead=0x00100000
+   INIT: 7.8
+   flags=0x00000000
+   max_readahead=0x00100000
+   max_write=0x01000000
+   unique: 0, error: 0 (Undefined error: 0), outsize: 40
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: ACCESS (34), nodeid: 1, insize: 48
+ACCESS / 00
+   unique: 0, error: -78 (Function not implemented), outsize: 16
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: GETXATTR (22), nodeid: 1, insize: 77
+   unique: 2, error: -78 (Function not implemented), outsize: 16
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 2, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: OPENDIR (27), nodeid: 1, insize: 48
+   unique: 1, error: 0 (Undefined error: 0), outsize: 32
+unique: 2, opcode: RELEASEDIR (29), nodeid: 1, insize: 64
+   unique: 2, error: 0 (Undefined error: 0), outsize: 16
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 128
+unique: 2, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 2, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 2, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 2, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: OPENDIR (27), nodeid: 1, insize: 48
+   unique: 2, error: 0 (Undefined error: 0), outsize: 32
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: READDIR (28), nodeid: 1, insize: 64
+/after 
+
+Logging 
+   unique: 1, error: 0 (Undefined error: 0), outsize: 112
+unique: 2, opcode: READDIR (28), nodeid: 1, insize: 64
+   unique: 2, error: 0 (Undefined error: 0), outsize: 16
+unique: 0, opcode: RELEASEDIR (29), nodeid: 1, insize: 64
+   unique: 0, error: 0 (Undefined error: 0), outsize: 16
+unique: 1, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 128
+unique: 2, opcode: LOOKUP (1), nodeid: 1, insize: 46
+LOOKUP /hello
+   NODEID: 2
+   unique: 2, error: 0 (Undefined error: 0), outsize: 152
+unique: 0, opcode: GETATTR (3), nodeid: 2, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 2, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 2, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 2, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 2, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 128
+unique: 2, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 2, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: FORGET (2), nodeid: 2, insize: 48
+FORGET 2/1
+delete: 2
+unique: 0, opcode: DESTROY (38), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 16
+Logging 
+unique: 0, opcode: INIT (26), nodeid: 0, insize: 56
+INIT: 7.8
+flags=0x00000000
+max_readahead=0x00100000
+   INIT: 7.8
+   flags=0x00000000
+   max_readahead=0x00100000
+   max_write=0x01000000
+   unique: 0, error: 0 (Undefined error: 0), outsize: 40
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: ACCESS (34), nodeid: 1, insize: 48
+ACCESS / 00
+   unique: 0, error: -78 (Function not implemented), outsize: 16
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: GETXATTR (22), nodeid: 1, insize: 77
+   unique: 0, error: -78 (Function not implemented), outsize: 16
+unique: 2, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 2, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: OPENDIR (27), nodeid: 1, insize: 48
+   unique: 1, error: 0 (Undefined error: 0), outsize: 32
+unique: 0, opcode: RELEASEDIR (29), nodeid: 1, insize: 64
+   unique: 0, error: 0 (Undefined error: 0), outsize: 16
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 128
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: OPENDIR (27), nodeid: 1, insize: 48
+   unique: 0, error: 0 (Undefined error: 0), outsize: 32
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: READDIR (28), nodeid: 1, insize: 64
+/after 
+
+Logging 
+   unique: 1, error: 0 (Undefined error: 0), outsize: 112
+unique: 0, opcode: READDIR (28), nodeid: 1, insize: 64
+   unique: 0, error: 0 (Undefined error: 0), outsize: 16
+unique: 2, opcode: RELEASEDIR (29), nodeid: 1, insize: 64
+   unique: 2, error: 0 (Undefined error: 0), outsize: 16
+unique: 1, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 128
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 46
+LOOKUP /hello
+   NODEID: 2
+   unique: 0, error: 0 (Undefined error: 0), outsize: 152
+unique: 2, opcode: GETATTR (3), nodeid: 2, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 2, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 2, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: FORGET (2), nodeid: 2, insize: 48
+unique: 2, opcode: DESTROY (38), nodeid: 1, insize: 40
+FORGET 2/1
+   unique: 2, error: 0 (Undefined error: 0), outsize: 16
+delete: 2
+Logging 
+unique: 0, opcode: INIT (26), nodeid: 0, insize: 56
+INIT: 7.8
+flags=0x00000000
+max_readahead=0x00100000
+   INIT: 7.8
+   flags=0x00000000
+   max_readahead=0x00100000
+   max_write=0x01000000
+   unique: 0, error: 0 (Undefined error: 0), outsize: 40
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: ACCESS (34), nodeid: 1, insize: 48
+ACCESS / 00
+   unique: 0, error: -78 (Function not implemented), outsize: 16
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 3, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 3, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: GETXATTR (22), nodeid: 1, insize: 77
+   unique: 2, error: -78 (Function not implemented), outsize: 16
+unique: 3, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 3, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 3, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 3, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+unique: 3, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+   unique: 3, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 2, error: -2 (No such file or directory), outsize: 16
+unique: 3, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 3, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 3, opcode: OPENDIR (27), nodeid: 1, insize: 48
+   unique: 3, error: 0 (Undefined error: 0), outsize: 32
+unique: 1, opcode: RELEASEDIR (29), nodeid: 1, insize: 64
+   unique: 1, error: 0 (Undefined error: 0), outsize: 16
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 2, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 128
+unique: 3, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 3, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 2, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 2, error: -2 (No such file or directory), outsize: 16
+unique: 3, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 3, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: OPENDIR (27), nodeid: 1, insize: 48
+   unique: 0, error: 0 (Undefined error: 0), outsize: 32
+unique: 2, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 96
+unique: 3, opcode: READDIR (28), nodeid: 1, insize: 64
+after 
+
+Logging 
+   unique: 3, error: 0 (Undefined error: 0), outsize: 112
+unique: 1, opcode: READDIR (28), nodeid: 1, insize: 64
+   unique: 1, error: 0 (Undefined error: 0), outsize: 16
+unique: 0, opcode: RELEASEDIR (29), nodeid: 1, insize: 64
+   unique: 0, error: 0 (Undefined error: 0), outsize: 16
+unique: 2, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 2, error: 0 (Undefined error: 0), outsize: 128
+unique: 3, opcode: LOOKUP (1), nodeid: 1, insize: 46
+LOOKUP /hello
+   NODEID: 2
+   unique: 3, error: 0 (Undefined error: 0), outsize: 152
+unique: 1, opcode: GETATTR (3), nodeid: 2, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 128
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 2, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 2, error: -2 (No such file or directory), outsize: 16
+unique: 3, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 3, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: FORGET (2), nodeid: 2, insize: 48
+unique: 2, opcode: DESTROY (38), nodeid: 1, insize: 40
+FORGET 2/1
+   unique: 2, error: 0 (Undefined error: 0), outsize: 16
+delete: 2
+Logging 
+unique: 0, opcode: INIT (26), nodeid: 0, insize: 56
+INIT: 7.8
+flags=0x00000000
+max_readahead=0x00100000
+   INIT: 7.8
+   flags=0x00000000
+   max_readahead=0x00100000
+   max_write=0x01000000
+   unique: 0, error: 0 (Undefined error: 0), outsize: 40
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: ACCESS (34), nodeid: 1, insize: 48
+ACCESS / 00
+   unique: 0, error: -78 (Function not implemented), outsize: 16
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: GETXATTR (22), nodeid: 1, insize: 77
+   unique: 0, error: -78 (Function not implemented), outsize: 16
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: OPENDIR (27), nodeid: 1, insize: 48
+   unique: 1, error: 0 (Undefined error: 0), outsize: 32
+unique: 0, opcode: RELEASEDIR (29), nodeid: 1, insize: 64
+   unique: 0, error: 0 (Undefined error: 0), outsize: 16
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: OPENDIR (27), nodeid: 1, insize: 48
+   unique: 1, error: 0 (Undefined error: 0), outsize: 32
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: READDIR (28), nodeid: 1, insize: 64
+after 
+
+Logging 
+   unique: 1, error: 0 (Undefined error: 0), outsize: 112
+unique: 0, opcode: READDIR (28), nodeid: 1, insize: 64
+   unique: 0, error: 0 (Undefined error: 0), outsize: 16
+unique: 1, opcode: RELEASEDIR (29), nodeid: 1, insize: 64
+   unique: 1, error: 0 (Undefined error: 0), outsize: 16
+unique: 0, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 46
+LOOKUP /hello
+   NODEID: 2
+   unique: 1, error: 0 (Undefined error: 0), outsize: 152
+unique: 0, opcode: GETATTR (3), nodeid: 2, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: FORGET (2), nodeid: 2, insize: 48
+unique: 0, opcode: DESTROY (38), nodeid: 1, insize: 40
+FORGET 2/1
+   unique: 0, error: 0 (Undefined error: 0), outsize: 16
+delete: 2
+Logging 
+unique: 0, opcode: INIT (26), nodeid: 0, insize: 56
+INIT: 7.8
+flags=0x00000000
+max_readahead=0x00100000
+   INIT: 7.8
+   flags=0x00000000
+   max_readahead=0x00100000
+   max_write=0x01000000
+   unique: 0, error: 0 (Undefined error: 0), outsize: 40
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: ACCESS (34), nodeid: 1, insize: 48
+ACCESS / 00
+   unique: 0, error: -78 (Function not implemented), outsize: 16
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: GETXATTR (22), nodeid: 1, insize: 77
+   unique: 0, error: -78 (Function not implemented), outsize: 16
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: OPENDIR (27), nodeid: 1, insize: 48
+   unique: 1, error: 0 (Undefined error: 0), outsize: 32
+unique: 0, opcode: RELEASEDIR (29), nodeid: 1, insize: 64
+   unique: 0, error: 0 (Undefined error: 0), outsize: 16
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 44
+LOOKUP /._.
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 1, error: 0 (Undefined error: 0), outsize: 96
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: OPENDIR (27), nodeid: 1, insize: 48
+   unique: 1, error: 0 (Undefined error: 0), outsize: 32
+unique: 0, opcode: STATFS (17), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 96
+unique: 1, opcode: READDIR (28), nodeid: 1, insize: 64
+   unique: 1, error: 0 (Undefined error: 0), outsize: 112
+unique: 0, opcode: READDIR (28), nodeid: 1, insize: 64
+   unique: 0, error: 0 (Undefined error: 0), outsize: 16
+unique: 1, opcode: RELEASEDIR (29), nodeid: 1, insize: 64
+   unique: 1, error: 0 (Undefined error: 0), outsize: 16
+unique: 0, opcode: GETATTR (3), nodeid: 1, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 46
+LOOKUP /hello
+   NODEID: 2
+   unique: 1, error: 0 (Undefined error: 0), outsize: 152
+unique: 0, opcode: GETATTR (3), nodeid: 2, insize: 40
+   unique: 0, error: 0 (Undefined error: 0), outsize: 128
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 1, error: -2 (No such file or directory), outsize: 16
+unique: 0, opcode: LOOKUP (1), nodeid: 1, insize: 50
+LOOKUP /.DS_Store
+   unique: 0, error: -2 (No such file or directory), outsize: 16
+unique: 1, opcode: FORGET (2), nodeid: 2, insize: 48
+unique: 0, opcode: DESTROY (38), nodeid: 1, insize: 40
+FORGET 2/1
+   unique: 0, error: 0 (Undefined error: 0), outsize: 16
+delete: 2

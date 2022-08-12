@@ -1,0 +1,2 @@
+Write directory 924 offset:0
+Destroy called ... Closing FS 

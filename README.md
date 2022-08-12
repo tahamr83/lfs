@@ -1,0 +1,2 @@
+# Log structured file system
+Implemented a log structured file system (inspired by [this](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf) paper) in C++ using FUSE API for Mac OS X. When mounted, it created a history of all the files as you update them. You are able to go back in time, and read the previous versions of the files.

@@ -1,0 +1,7 @@
+Node size:0
+Block1:1040
+Truncate: 0
+Write 20
+block being written 42 of size 20
+End 
+Destroy called ... Closing filesystem 

@@ -1,0 +1,23 @@
+Create /lfscopy.h
+unlink /lfscopy.h
+Truncate: lfscopy.h 0
+Write lfscopy.h 7764 offset:0
+Block:0 Dirty:0
+Block:1 Dirty:0
+Block:2 Dirty:0
+Block:3 Dirty:0
+Block:4 Dirty:0
+Block:5 Dirty:0
+Block:6 Dirty:0
+Block:7 Dirty:0
+Read lfscopy.h
+Write lfscopy.h 3680 offset:4096
+Block:4 Dirty:1
+Dirty:46	New:50
+Block:5 Dirty:1
+Dirty:47	New:51
+Block:6 Dirty:1
+Dirty:48	New:52
+Block:7 Dirty:1
+Dirty:49	New:53
+Destroy called ... Closing FS 
